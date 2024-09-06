@@ -1,8 +1,12 @@
-I'm a [Power BI Certified Data Analyst](https://learn.microsoft.com/en-us/users/vaishnaviavinashgawali-1499/credentials/f6de94eefdcd5dd0?ref=https%3A%2F%2Fwww.linkedin.com%2F), and I'm currently working on enhancing my skills by tackling the [Workout Wednesday Challenges](https://workout-wednesday.com/power-bi-challenges/). These challenges are a great way to dive deeper into Power BI and refine my expertise. I’ll be sharing the .pbix files for all the challenges I've completed right here. 
+# Workout Wednesday 2023 Week 23
 
-Please feel free to explore and learn from them. If you have any questions or feedback, don't hesitate to reach out—I’m always up for a discussion on Power BI and data analysis!
 
-Connect with me:
-- LinkedIn https://www.linkedin.com/in/vaishnavigawali
-- Medium https://medium.com/@vaishnavi.gawali29
-- GitHub https://github.com/vaishnavi-gawali
+The first challenge I chose focused on Power BI core visuals. It involved creating a stacked column chart, a clustered column chart, and a Tree Map — essential visuals of Power BI. This exercise provided me with hands-on experience in leveraging sorting functionality and refining formatting options to enhance data presentation.
+
+![2023 Week 23](https://github.com/vaishnavi-gawali/Power-BI-Challenges/blob/main/Images%20of%20Power%20BI%20Reports/2023%20Week%2023.png)
+
+- Challenge Details https://workout-wednesday.com/pbi-2023-w23/
+- Link to Dataset https://100.datavizproject.com/
+
+Feel free to review my work and see how these visuals can be applied in different scenarios. If you have any questions or need further clarification, don’t hesitate to reach out!
+
