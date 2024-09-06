@@ -1,11 +1,11 @@
 # Workout Wednesday 2023 Week 23
 
-The first challenge I chose focused on Power BI core visuals. It involved creating a stacked column chart, a clustered column chart, and a Tree Map — essential visuals of Power BI. This exercise provided me with hands-on experience in leveraging sorting functionality and refining formatting options to enhance data presentation.
+In this challenge, I used the Mortgage Rates dataset to create an area chart displaying 15-year and 30-year mortgage rates on a single axis. I calculated the difference between these rates and visualized it using DAX functions, while also ensuring consistent color formatting and appropriate text and titles.
 
-![2023 Week 23](https://github.com/vaishnavi-gawali/Power-BI-Challenges/blob/main/Images%20of%20Power%20BI%20Reports/2023%20Week%2023.png)
+![2023 Week 04](https://github.com/vaishnavi-gawali/Power-BI-Challenges/blob/main/Images%20of%20Power%20BI%20Reports/2023%20Week%2004.png)
 
-- Challenge Details https://workout-wednesday.com/pbi-2023-w23/
-- Link to Dataset https://100.datavizproject.com/
+- Challenge Details https://workout-wednesday.com/pbi-2023-w04/
+- Link to Dataset [https://100.datavizproject.com/](https://workout-wednesday.com/pbi-2023-w04/)
 
 Feel free to review my work and see how these visuals can be applied in different scenarios. If you have any questions or need further clarification, don’t hesitate to reach out!
 
