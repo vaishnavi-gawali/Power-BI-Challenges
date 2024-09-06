@@ -1,4 +1,4 @@
-# Workout Wednesday 2023 Week 23
+# Workout Wednesday 2023 Week 04
 
 In this challenge, I used the Mortgage Rates dataset to create an area chart displaying 15-year and 30-year mortgage rates on a single axis. I calculated the difference between these rates and visualized it using DAX functions, while also ensuring consistent color formatting and appropriate text and titles.
 
